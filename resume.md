@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: 搭建个人技术博客
+subtitle: 我们在这里使用Git Hub Pages + Jekyll 快速部署个人博客
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
