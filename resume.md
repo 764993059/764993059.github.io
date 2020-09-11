@@ -7,11 +7,13 @@ subtitle: 我们在这里使用Git Hub Pages + Jekyll 快速部署个人博
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+###  - GitHub Pages 
+``` >   - 定义: 给所有用户提供一个个人主页
+>   - 如何访问个人域名: 用户名.github.io
+>   - 如何编写主页:  建立一个用域名为项目名的远程版本仓库,只需要向该远程版本仓库中的master分支提交代码即可(该代码中必须有个文件叫index.html)  ```  
 
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
+### - Jekyll
+**定义** - 可以将markdown语法自动编译成html语法的一个工具 - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
