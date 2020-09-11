@@ -13,43 +13,30 @@ subtitle: 我们在这里使用Git Hub Pages + Jekyll 快速部署个人博
 >   - 如何编写主页:  建立一个用域名为项目名的远程版本仓库,只需要向该远程版本仓库中的master分支提交代码即可(该代码中必须有个文件叫index.html)   
 
    - Jekyll</span>
-**定义** - 可以将markdown语法自动编译成html语法的一个工具 - Place <span style="float: right; ">Time span</span>  
+**定义** - 可以将markdown语法自动编译成html语法的一个工具 - Place <span style="float: right; "></span>  
 
-**   - 安装** -  不需要自己安装,在github网站中预安装了 <span style="float: right; ">Time span</span>   
+**   - 安装** -  不需要自己安装,在github网站中预安装了 <span style="float: right; "></span>   
 
-**   - 使用** -不用人为使用,当你请求个人域名的时候github服务器会读取仓库(以个人域名命名的那个远程版本仓库)中的master分支中的代码,如果该代码为markdown代码会自动调用Jekyll将其编译为html代码,并返回客户端 - Place <span style="float: right; ">Time span</span>    
+**   - 使用** -不用人为使用,当你请求个人域名的时候github服务器会读取仓库(以个人域名命名的那个远程版本仓库)中的master分支中的代码,如果该代码为markdown代码会自动调用Jekyll将其编译为html代码,并返回客户端 - Place <span style="float: right; "></span>    
 
 ### - 建立一个以个人域名为项目名的远程版本仓库
 
-<span style="float: right; ">Duration</span>  
+<span style="float: right; "></span>  
 **- 建立一个以个人域名为项目名的远程版本仓库**    
  
-<span style="float: right; ">Duration</span>  
+<span style="float: right; "></span>  
 ** 访问一个网址(主题网址): http://jekyllthemes.org/ 选择一个主题将其代码复制到我们仓库的master分支**  
 以上两步可以合并为一步,在主题仓库中点击fork,点击settings设置仓库名,即可  
 
-<span style="float: right; ">Duration</span>  
+<span style="float: right; "></span>  
 **-将远程版本库的代码克隆到本地**   
 
-**-点击头像,点code,复制链接** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
+**-点击头像,点code,复制链接** <span style="float: right; "></span>
  
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+**- 在文件打开终端执行克隆: git clone -b master https://github.com/brobboVIi/brobboVIi.github.io.git myBlog** <span style="float: right; "></span>  
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+**- 从远程版本库中克隆下来的代码会自动创建本地版本仓库** <span style="float: right; "></span>    
+**- 当从本地版本库推送到远程版本库前,本地版本库的状态必须为clean** <span style="float: right; "></span>
+**-修改配置文件以及页面内容** <span style="float: right; "></span>
 
-
-### RECOGNITION & INTERESTS
-
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+###              书写博客
